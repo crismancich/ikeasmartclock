@@ -5,12 +5,15 @@ Hacking the IKEA Stolpa Clock into a SmartClock
 ### What you need
 
 - Ikea Stolpa Wall Clock 24,99 €
-  https://www.ikea.com/de/de/p/stolpa-wanduhr-80400382/
 
+  https://www.ikea.com/de/de/p/stolpa-wanduhr-80400382/
+  
 - 1m WS2812B Adressable LED Strip with 60 LEDs per meter 15,99 €
+  
   https://www.amazon.de/gp/product/B01CDTEE5W
 
 - ESP8266 Nodemcu WIFI Microcontroller 5,99 €
+  
   https://www.amazon.de/AZDelivery-NodeMCU-ESP8266-ESP-12E-Development/dp/B06Y1LZLLY
 
 ## Figures
